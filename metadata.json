@@ -1,0 +1,6 @@
+{
+  "name": "ПроектБот ГОСТ",
+  "description": "Telegram-бот и студия генерации индивидуальных проектов строго по ГОСТ 7.32-2017 с экспортом в DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
